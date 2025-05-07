@@ -24,6 +24,8 @@ Si existe un $\xi\in\mathbb{R}$ para el que $W(\xi)=0$, entonces $W(x)=0$ para t
 :::
 
 :::{prf:proof}
+:class: dropdown
+
 Si calculamos la derivada del Wronskiano de $y_1$ e $y_2$ tenemos que:
 
 $$
