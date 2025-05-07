@@ -21,7 +21,7 @@ project:
     - title: Cálculo vectorial
       children:      
         - file: conceptos_previos.md
-        - file: curvas
+        - file: curvas.md
         - file: integrales_trayectoria.md
         - file: Integrales_de_linea.md
         - file: grad_potencial.md
@@ -32,7 +32,8 @@ project:
         - file: cuadricas.ipynb
     - title: Ecuaciones diferenciales ordinarias
       children:
-        - file: Variables_Separadas
+        - file: Variables_Separadas.md
+        - file: Wronskiano.md
     - title: Apéndices
       children:
         - file: Notacion.md
